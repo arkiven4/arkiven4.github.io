@@ -92,6 +92,17 @@
     margin-bottom: 15px;
 }
 
+.tools_expert .skill_main .skill_item .badge {
+    padding: .25em .4em;
+    font-weight: 450;
+    font-size: 100%;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+}
+
 .tools_expert .skill_main .skill_item .progress {
     height: 20px;
     border-radius: 10px;
